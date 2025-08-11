@@ -1,0 +1,26 @@
+[
+  {
+    "user_input": "Translate 'Good Morning' into German and then multiply 5 and 6.",
+    "bot_response": "[Translator]: 'Good Morning' in German is 'Guten Morgen'\n[Calculator]: Result of '5 * 6' is 30"
+  },
+  {
+    "user_input": "Add 10 and 20, then translate 'Have a nice day' into German.",
+    "bot_response": "[Calculator]: Result of '10 + 20' is 30\n[Translator]: 'Have a nice day' in German is 'Einen schönen Tag noch'"
+  },
+  {
+    "user_input": "Tell me the capital of Italy, then multiply 12 and 12.",
+    "bot_response": "[LLM]: The capital of Italy is Rome.\n[Calculator]: Result of '12 * 12' is 144"
+  },
+  {
+    "user_input": "Translate 'Sunshine' into German.",
+    "bot_response": "[Translator]: 'Sunshine' in German is 'Sonnenschein'"
+  },
+  {
+    "user_input": "Add 2 and 2 and multiply 3 and 3.",
+    "bot_response": "[Calculator]: Result of '2 + 2' is 4\n[Calculator]: Result of '3 * 3' is 9"
+  },
+  {
+    "user_input": "What is the distance between Earth and Mars?",
+    "bot_response": "[LLM]: The average distance between Earth and Mars is about 225 million kilometers (140 million miles), depending on their positions in orbit."
+  }
+]
